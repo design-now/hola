@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ESTA ES MASTER
 
 Ahora probemos merge
@@ -11,3 +12,13 @@ How are you?
 
 I´m fine
 How about you!
+=======
+EN FRANCES
+
+Hola Git
+Cómo giestas?
+
+Bonjour Git.
+Comment vas-tu?
+imagen de remedios
+>>>>>>> frances
