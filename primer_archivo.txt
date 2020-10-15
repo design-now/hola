@@ -1,5 +1,7 @@
+EN FRANCES
+
 Hola Git
-Cómo estas?
+Cómo giestas?
 
 Bonjour Git.
 Comment vas-tu?
