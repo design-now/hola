@@ -2,4 +2,4 @@ Hola Git
 Cómo estas?
 
 Bonjour Git.
-Commentvas-tu?
+Comment vas-tu?
